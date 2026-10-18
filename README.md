@@ -1,4 +1,4 @@
- Gemini
+ 
 Customer Churn Prediction using Logistic Regression
 📋 Overview
 
